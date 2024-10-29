@@ -35,6 +35,7 @@ namespace cadastroUser_v2
                     {
                         motoristas.Add(new Motorista
                         {
+                            Id = reader.GetInt32("Id"),
                             Nome = reader.GetString("Nome"),
                             Email = reader.GetString("Email"),
                             Placa = reader.GetString("Placa")
@@ -70,7 +71,16 @@ namespace cadastroUser_v2
             return null;
         }
 
-        
+        public void DeleteMotorista(int id)
+        {
+            using (var connection = new MySqlConnection(connectionString))
+            {
+                connection.Open();
+                var command = new MySqlCommand("DELETE FROM Motorista WHERE Id = @Id", connection);
+                command.Parameters.AddWithValue ("@Id", id);
+                command.ExecuteNonQuery();
+            }
+        }
     }
 }
 

@@ -104,6 +104,18 @@
     <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="DAO\UsuarioDao.cs" />
     <Compile Include="DAO\IUsuarioDao.cs" />
+    <Compile Include="EscolhaAcao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscolhaAcao.Designer.cs">
+      <DependentUpon>EscolhaAcao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualizarMotoristas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisualizarMotoristas.Designer.cs">
+      <DependentUpon>VisualizarMotoristas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\UsuarioEntity.cs" />
     <Compile Include="LoginView.cs">
       <SubType>Form</SubType>
@@ -126,6 +138,9 @@
     <EmbeddedResource Include="CadastroMotoristaView.resx">
       <DependentUpon>CadastroMotoristaView.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="EscolhaAcao.resx">
+      <DependentUpon>EscolhaAcao.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginView.resx">
       <DependentUpon>LoginView.cs</DependentUpon>
     </EmbeddedResource>
@@ -138,6 +153,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="VisualizarMotoristas.resx">
+      <DependentUpon>VisualizarMotoristas.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include=".editorconfig" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

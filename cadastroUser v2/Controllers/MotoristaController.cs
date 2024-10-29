@@ -35,5 +35,10 @@ namespace cadastroUser_v2
         {
             return motoristaDao.GetMotoristas();
         }
+
+        public void DeleteMotorista(int id)
+        {
+            motoristaDao.DeleteMotorista(id);
+        }
     }
 }

@@ -12,5 +12,6 @@ namespace cadastroUser_v2
         List<Motorista> GetMotoristas();
         Motorista GetMotorista(int id);
         
+        void DeleteMotorista(int id);
     }
 }

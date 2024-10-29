@@ -103,7 +103,7 @@
             this.Controls.Add(this.userTxt);
             this.Controls.Add(this.LoginTitle);
             this.Name = "LoginView";
-            this.Text = "Form1";
+            this.Text = "Login";
             this.Load += new System.EventHandler(this.LoginView_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

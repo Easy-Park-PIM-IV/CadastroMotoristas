@@ -31,17 +31,5 @@ namespace cadastroUser_v2
             motoristaController.AddMotorista(nome, email, placa);
             MessageBox.Show("Dados salvos com sucesso!");
         }
-
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            List<Motorista> motoristas = motoristaController.GetMotoristas();
-            listaMotoristas.Items.Clear();
-
-            foreach (var motorista in motoristas)
-            {
-                listaMotoristas.Items.Add($"Nome: {motorista.Nome}, Email: {motorista.Email}, Placa: {motorista.Placa}");
-            }
-        }
     }
-    } 
+ } 

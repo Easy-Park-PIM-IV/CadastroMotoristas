@@ -34,8 +34,8 @@ namespace cadastroUser_v2
             {
                 MessageBox.Show("Login bem sucedido! Bem-vindo, " + usuarioEncontrado.Nome);
                 this.Hide();
-                CadastroMotoristaView casdastroForm = new CadastroMotoristaView();
-                casdastroForm.Show();
+                Form1 escolhaAcao = new Form1();
+                escolhaAcao.Show();
             }
             else
             {
