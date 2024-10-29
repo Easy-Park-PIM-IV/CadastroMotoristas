@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|c:\\users\\ct67ca\\desktop\\cadastromotoristas\\cadastrouser v2\\cadastromotoristaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\cadastromotoristaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\dao\\motoristadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\dao\\motoristadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\cadastromotoristaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\cadastromotoristaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\dao\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\dao\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\dao\\iusuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\dao\\iusuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\models\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\models\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\controllers\\motoristacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\controllers\\motoristacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastrouser v2\\dao\\motoristadaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375E980E-3B89-42B8-9E06-3E189A93861B}|cadastroUser v2\\cadastroUser v2.csproj|solutionrelative:cadastrouser v2\\dao\\motoristadaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDao.cs",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\DAO\\UsuarioDao.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\DAO\\UsuarioDao.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\DAO\\UsuarioDao.cs",
+              "RelativeToolTip": "cadastroUser v2\\DAO\\UsuarioDao.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:18:35.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioDao.cs",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\DAO\\IUsuarioDao.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\DAO\\IUsuarioDao.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\DAO\\IUsuarioDao.cs",
+              "RelativeToolTip": "cadastroUser v2\\DAO\\IUsuarioDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:17:41.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\Models\\UsuarioEntity.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\Models\\UsuarioEntity.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\Models\\UsuarioEntity.cs",
+              "RelativeToolTip": "cadastroUser v2\\Models\\UsuarioEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:15:35.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MotoristaDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\DAO\\MotoristaDaoImpl.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\DAO\\MotoristaDaoImpl.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\DAO\\MotoristaDaoImpl.cs",
+              "RelativeToolTip": "cadastroUser v2\\DAO\\MotoristaDaoImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:36:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MotoristaDao.cs",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\DAO\\MotoristaDao.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\DAO\\MotoristaDao.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\DAO\\MotoristaDao.cs",
+              "RelativeToolTip": "cadastroUser v2\\DAO\\MotoristaDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:33:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\LoginView.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\LoginView.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\teste wind forms\\UsersManager\\cadastroUsers v3\\cadastroUser v2\\LoginView.cs [Design]",
+              "RelativeToolTip": "..\\teste wind forms\\UsersManager\\cadastroUsers v3\\cadastroUser v2\\LoginView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:17:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroMotoristaView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\CadastroMotoristaView.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\CadastroMotoristaView.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\CadastroMotoristaView.cs [Design]",
+              "RelativeToolTip": "cadastroUser v2\\CadastroMotoristaView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:42:06.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroMotoristaView.cs",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\CadastroMotoristaView.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\CadastroMotoristaView.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\CadastroMotoristaView.cs",
+              "RelativeToolTip": "cadastroUser v2\\CadastroMotoristaView.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:32:29.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "cadastroUser v2\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:23:00.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MotoristaController.cs",
+              "DocumentMoniker": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\Controllers\\MotoristaController.cs",
+              "RelativeDocumentMoniker": "cadastroUser v2\\Controllers\\MotoristaController.cs",
+              "ToolTip": "C:\\Users\\ct67ca\\Desktop\\CadastroMotoristas\\cadastroUser v2\\Controllers\\MotoristaController.cs",
+              "RelativeToolTip": "cadastroUser v2\\Controllers\\MotoristaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:37:29.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
