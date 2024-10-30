@@ -26,10 +26,17 @@ namespace cadastroUser_v2
         {
             string nome = nome_textbox.Text;
             string email = email_textbox.Text;
-            string placa = placa_textbox.Text;
+            string telefone = tel_textbox.Text;
 
-            motoristaController.AddMotorista(nome, email, placa);
+            motoristaController.AddMotorista(nome, email, telefone);
             MessageBox.Show("Dados salvos com sucesso!");
+        }
+
+        private void voltarBtn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 escolhaAcao = new Form1();
+            escolhaAcao.Show();
         }
     }
  } 

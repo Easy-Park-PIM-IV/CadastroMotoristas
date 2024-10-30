@@ -15,14 +15,13 @@ namespace cadastroUser_v2
             this.motoristaDao = motoristaDao;
         }
 
-        public void AddMotorista(string nome, string email, string placa)
+        public void AddMotorista(string nome, string email, string telefone)
         {
             var motorista = new Motorista
             {
                 Nome = nome,
                 Email = email,
-                Placa = placa
-            };
+                Telefone = telefone            };
             motoristaDao.AddMotorista(motorista);
         }
 

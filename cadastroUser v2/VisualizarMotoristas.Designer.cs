@@ -32,6 +32,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.listaMotoristas = new System.Windows.Forms.ListView();
             this.button2 = new System.Windows.Forms.Button();
+            this.VoltarButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -75,11 +76,25 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // VoltarButton
+            // 
+            this.VoltarButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.VoltarButton.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.VoltarButton.Location = new System.Drawing.Point(41, 9);
+            this.VoltarButton.Margin = new System.Windows.Forms.Padding(0);
+            this.VoltarButton.Name = "VoltarButton";
+            this.VoltarButton.Size = new System.Drawing.Size(107, 41);
+            this.VoltarButton.TabIndex = 18;
+            this.VoltarButton.Text = "<";
+            this.VoltarButton.UseVisualStyleBackColor = true;
+            this.VoltarButton.Click += new System.EventHandler(this.VoltarButton_Click);
+            // 
             // VisualizarMotoristas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.VoltarButton);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.listaMotoristas);
             this.Controls.Add(this.button1);
@@ -97,5 +112,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ListView listaMotoristas;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button VoltarButton;
     }
 }

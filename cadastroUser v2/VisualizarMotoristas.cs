@@ -31,7 +31,7 @@ namespace cadastroUser_v2
             listaMotoristas.Columns.Add("ID", 50); 
             listaMotoristas.Columns.Add("Nome", 150);
             listaMotoristas.Columns.Add("Email", 200);
-            listaMotoristas.Columns.Add("Placa", 100);
+            listaMotoristas.Columns.Add("Telefone", 100);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -44,7 +44,7 @@ namespace cadastroUser_v2
                 ListViewItem item = new ListViewItem(motorista.Id.ToString());
                 item.SubItems.Add(motorista.Nome);
                 item.SubItems.Add(motorista.Email);
-                item.SubItems.Add(motorista.Placa);
+                item.SubItems.Add(motorista.Telefone);
 
                 listaMotoristas.Items.Add(item);
             }
@@ -67,6 +67,13 @@ namespace cadastroUser_v2
             {
                 MessageBox.Show("Selecione um motorista para excluir.");
             }
+        }
+
+        private void VoltarButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 escolhaAcao = new Form1();
+            escolhaAcao.Show();
         }
     }
 

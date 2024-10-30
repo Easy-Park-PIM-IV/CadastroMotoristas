@@ -12,10 +12,10 @@ namespace cadastroUser_v2
             using (var connection = new MySqlConnection(connectionString))
             {
                 connection.Open();
-                var command = new MySqlCommand("INSERT INTO Motorista (Nome, Email, Placa) VALUES (@Nome, @Email, @Placa)", connection);
+                var command = new MySqlCommand("INSERT INTO Motorista (Nome, Email, Telefone) VALUES (@Nome, @Email, @Telefone)", connection);
                 command.Parameters.AddWithValue("@Nome", motorista.Nome);
                 command.Parameters.AddWithValue("@Email", motorista.Email);
-                command.Parameters.AddWithValue("@Placa", motorista.Placa);
+                command.Parameters.AddWithValue("@Telefone", motorista.Telefone);
                 command.ExecuteNonQuery();
             }
 
@@ -38,7 +38,7 @@ namespace cadastroUser_v2
                             Id = reader.GetInt32("Id"),
                             Nome = reader.GetString("Nome"),
                             Email = reader.GetString("Email"),
-                            Placa = reader.GetString("Placa")
+                            Telefone = reader.GetString("Telefone")
                         });
                     }
                 }
@@ -63,7 +63,7 @@ namespace cadastroUser_v2
                             Id = reader.GetInt32("Id"),
                             Nome = reader.GetString("Nome"),
                             Email = reader.GetString("Email"),
-                            Placa = reader.GetString("Placa")
+                            Telefone = reader.GetString("Telefone")
                         };
                     }
                 }

@@ -52,7 +52,6 @@
             this.userTxt.Name = "userTxt";
             this.userTxt.Size = new System.Drawing.Size(195, 26);
             this.userTxt.TabIndex = 1;
-            this.userTxt.Text = "Insira seu usuário ";
             // 
             // label1
             // 
@@ -68,9 +67,10 @@
             // 
             this.senhaTxt.Location = new System.Drawing.Point(289, 266);
             this.senhaTxt.Name = "senhaTxt";
+            this.senhaTxt.PasswordChar = '*';
             this.senhaTxt.Size = new System.Drawing.Size(195, 26);
             this.senhaTxt.TabIndex = 3;
-            this.senhaTxt.Text = "Insira sua senha";
+            this.senhaTxt.UseSystemPasswordChar = true;
             // 
             // label2
             // 
