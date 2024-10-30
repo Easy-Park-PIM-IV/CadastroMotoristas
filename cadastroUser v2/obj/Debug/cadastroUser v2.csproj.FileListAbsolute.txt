@@ -118,3 +118,4 @@ C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastroUse
 C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastro.4E4E6098.Up2Date
 C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastroUser v2.exe
 C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastroUser v2.pdb
+C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastroUser_v2.CadastroVeiculo.resources
