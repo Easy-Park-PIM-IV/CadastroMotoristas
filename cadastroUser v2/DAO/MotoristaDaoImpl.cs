@@ -76,6 +76,11 @@ namespace cadastroUser_v2
             using (var connection = new MySqlConnection(connectionString))
             {
                 connection.Open();
+
+                var deleteVeiculosCommand = new MySqlCommand("DELETE FROM Veiculo WHERE id_motorista = @Id", connection);
+                deleteVeiculosCommand.Parameters.AddWithValue("@Id", id);
+                deleteVeiculosCommand.ExecuteNonQuery();
+
                 var command = new MySqlCommand("DELETE FROM Motorista WHERE Id = @Id", connection);
                 command.Parameters.AddWithValue ("@Id", id);
                 command.ExecuteNonQuery();

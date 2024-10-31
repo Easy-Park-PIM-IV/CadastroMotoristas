@@ -119,3 +119,4 @@ C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastro.4E
 C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastroUser v2.exe
 C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastroUser v2.pdb
 C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastroUser_v2.CadastroVeiculo.resources
+C:\Users\ct67ca\Desktop\CadastroMotoristas\cadastroUser v2\obj\Debug\cadastroUser_v2.Form2.resources

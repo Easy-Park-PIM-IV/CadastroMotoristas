@@ -32,5 +32,12 @@ namespace cadastroUser_v2
             CadastroMotoristaView casdastroForm = new CadastroMotoristaView();
             casdastroForm.Show();
         }
+
+        private void cadVeiculosBtn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            CadastroVeiculo cadVeiculos = new CadastroVeiculo();
+            cadVeiculos.Show();
+        }
     }
 }
