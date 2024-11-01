@@ -10,5 +10,7 @@ namespace cadastroUser_v2.DAO
     public interface IVeiculoDao
     {
         void AddVeiculo(VeiculoEntity veiculo, int id_motorista);
+
+        List<VeiculoEntity> GetAllVeiculo();
     }
 }

@@ -16,5 +16,14 @@ namespace cadastroUser_v2
         {
             InitializeComponent();
         }
+
+        private void VoltarButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 escolhaAcao = new Form1();
+            escolhaAcao.Show();
+        }
+
+
     }
 }
